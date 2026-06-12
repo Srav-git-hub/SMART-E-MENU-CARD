@@ -2,12 +2,6 @@
 
 ## Project Demonstration
 
-### Hardware Setup
-
-<p align="center">
-  <img src="images/smart_restaurant_setup.jpg" alt="Smart Restaurant Hardware Setup" width="700">
-</p>
-
 ### Demo Video
 
 🎥 **Watch the Project Demo**
